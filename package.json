@@ -1,0 +1,28 @@
+{
+    "name": "@wwwoda/prettier-config",
+    "version": "0.0.1",
+    "description": "Prettier config used at Woda",
+    "repository": "woda/prettier-config",
+    "keywords": [
+      "prettier"
+    ],
+    "files": [
+      "index.js"
+    ],
+    "authors": [
+      {
+        "name": "Woda",
+        "email": "hello@woda.at",
+        "homepage": "https://www.woda.at"
+      },
+      {
+        "name": "David Mondok",
+        "email": "david@woda.at"
+      }
+    ],
+    "license": "MIT",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"No test specified\""
+    }
+  }
