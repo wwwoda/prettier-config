@@ -1,6 +1,6 @@
 {
     "name": "@wwwoda/prettier-config",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "description": "Prettier config used at Woda",
     "repository": "woda/prettier-config",
     "keywords": [
